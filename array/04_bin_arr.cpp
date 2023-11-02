@@ -2,7 +2,7 @@
 using namespace std;
 
 int bin(int arr[], int n, int key,int low,int high){
-	if(low<=high){
+	while(low<=high){
 		int mid = (low + high)/2;
 
 		if(arr[mid]==key) return mid;

@@ -23,5 +23,4 @@ int main(){
 	}
 
 	print_pairs(arr,n);
-
 }
