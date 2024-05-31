@@ -10,3 +10,6 @@ array/03_lin_arr
 array/04_bin_arr
 array/05_rev_arr
 array/06_array_pairs
+*.out
+array/k.cpp
+array/.vscode/settings.json
